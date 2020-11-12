@@ -1,5 +1,7 @@
 # Query-Response_Voice-Bot
 
+This is a voice-based search engine which recognizes the questions asked by the user and searches the answer for them in a very optimized way and gives the appropriate results. Queries asked to the bot are processed and the bot searches for the keywords on various search engine platforms and gives the results.
+
 Run the following commands to install requried Pacakges:
 
 sudo apt –get install python3 – tk
